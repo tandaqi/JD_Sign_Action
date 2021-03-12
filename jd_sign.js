@@ -1,4 +1,4 @@
-// version v0.0.1
+// version v0.0.
 // create by zhihua
 // detail url: https://github.com/ruicky/jd_sign_bot
 
